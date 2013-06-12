@@ -1,0 +1,420 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DELL-PC</Machine>
+    <WindowsUser>dell</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>D7132562D2D5260AD7FA3FC1929D25BE1F485737D306A3EDA6E24B96FFEB4B25</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>11246kter.trackyou_1.0.0.10_neutral__e8xs8jv8wxegp</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>11246kter.trackyou_e8xs8jv8wxegp!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>11246kter.trackyou</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=9C413170-8503-47BA-820F-B2D164F1A23E</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.10</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\dell\Documents\Visual Studio 2012\Projects\track you\kter_myelement\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-06-12T01:53:13.839</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\dell\Documents\Visual Studio 2012\Projects\track you\kter_myelement\bin\Debug\kter_myelement.exe">
+      <PackagePath>kter_myelement.exe</PackagePath>
+      <Modified>2013-06-12T02:08:54.372</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dell\Documents\Visual Studio 2012\Projects\track you\kter_myelement\bin\Debug\kter_myelement.pdb">
+      <PackagePath>kter_myelement.pdb</PackagePath>
+      <Modified>2013-06-12T02:08:54.350</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dell\Documents\Visual Studio 2012\Projects\track you\kter_myelement\Common\Com.AMap.Maps.Api.winmd">
+      <PackagePath>Com.AMap.Maps.Api.winmd</PackagePath>
+      <Modified>2013-01-21T11:16:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dell\Documents\Visual Studio 2012\Projects\track you\kter_myelement\Common\Com.AMap.Search.API.winmd">
+      <PackagePath>Com.AMap.Search.API.winmd</PackagePath>
+      <Modified>2013-01-21T11:16:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dell\Documents\Visual Studio 2012\Projects\track you\packages\LiveSDK.5.3\WindowsXAML\Microsoft.Live.dll">
+      <PackagePath>Microsoft.Live.dll</PackagePath>
+      <Modified>2013-05-20T15:35:22.510</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dell\Documents\Visual Studio 2012\Projects\track you\packages\Microsoft.Bcl.Async.1.0.16\lib\win8\Microsoft.Threading.Tasks.dll">
+      <PackagePath>Microsoft.Threading.Tasks.dll</PackagePath>
+      <Modified>2013-05-04T15:55:16.518</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dell\Documents\Visual Studio 2012\Projects\track you\packages\Microsoft.Bcl.Async.1.0.16\lib\win8\Microsoft.Threading.Tasks.Extensions.dll">
+      <PackagePath>Microsoft.Threading.Tasks.Extensions.dll</PackagePath>
+      <Modified>2013-05-04T15:55:16.519</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dell\Documents\Visual Studio 2012\Projects\track you\packages\WindowsAzure.MobileServices.0.3.3-rc\lib\netcore45\Microsoft.WindowsAzure.Mobile.dll">
+      <PackagePath>Microsoft.WindowsAzure.Mobile.dll</PackagePath>
+      <Modified>2013-05-04T15:56:50.381</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dell\Documents\Visual Studio 2012\Projects\track you\packages\WindowsAzure.MobileServices.0.3.3-rc\lib\netcore45\Microsoft.WindowsAzure.Mobile.Ext.dll">
+      <PackagePath>Microsoft.WindowsAzure.Mobile.Ext.dll</PackagePath>
+      <Modified>2013-05-04T15:56:50.382</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dell\Documents\Visual Studio 2012\Projects\track you\packages\Newtonsoft.Json.4.5.11\lib\winrt45\Newtonsoft.Json.dll">
+      <PackagePath>Newtonsoft.Json.dll</PackagePath>
+      <Modified>2013-05-04T15:56:27.693</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dell\Documents\Visual Studio 2012\Projects\track you\packages\Microsoft.Net.Http.2.1.3-beta\lib\win8\System.Net.Http.Extensions.dll">
+      <PackagePath>System.Net.Http.Extensions.dll</PackagePath>
+      <Modified>2013-05-04T15:55:40.306</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dell\Documents\Visual Studio 2012\Projects\track you\packages\Microsoft.Net.Http.2.1.3-beta\lib\win8\System.Net.Http.Primitives.dll">
+      <PackagePath>System.Net.Http.Primitives.dll</PackagePath>
+      <Modified>2013-05-04T15:55:40.310</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dell\Documents\Visual Studio 2012\Projects\track you\packages\Microsoft.Bcl.Async.1.0.16\lib\win8\Microsoft.Threading.Tasks.xml">
+      <PackagePath>Microsoft.Threading.Tasks.xml</PackagePath>
+      <Modified>2013-05-04T15:55:16.521</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dell\Documents\Visual Studio 2012\Projects\track you\packages\Microsoft.Bcl.Async.1.0.16\lib\win8\Microsoft.Threading.Tasks.Extensions.xml">
+      <PackagePath>Microsoft.Threading.Tasks.Extensions.xml</PackagePath>
+      <Modified>2013-05-04T15:55:16.521</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dell\Documents\Visual Studio 2012\Projects\track you\packages\WindowsAzure.MobileServices.0.3.3-rc\lib\netcore45\Microsoft.WindowsAzure.Mobile.xml">
+      <PackagePath>Microsoft.WindowsAzure.Mobile.xml</PackagePath>
+      <Modified>2013-05-04T15:56:50.388</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dell\Documents\Visual Studio 2012\Projects\track you\packages\WindowsAzure.MobileServices.0.3.3-rc\lib\netcore45\Microsoft.WindowsAzure.Mobile.Ext.xml">
+      <PackagePath>Microsoft.WindowsAzure.Mobile.Ext.xml</PackagePath>
+      <Modified>2013-05-04T15:56:50.387</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dell\Documents\Visual Studio 2012\Projects\track you\packages\Newtonsoft.Json.4.5.11\lib\winrt45\Newtonsoft.Json.xml">
+      <PackagePath>Newtonsoft.Json.xml</PackagePath>
+      <Modified>2013-05-04T15:56:27.694</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dell\Documents\Visual Studio 2012\Projects\track you\packages\Microsoft.Net.Http.2.1.3-beta\lib\win8\System.Net.Http.Extensions.xml">
+      <PackagePath>System.Net.Http.Extensions.xml</PackagePath>
+      <Modified>2013-05-04T15:55:40.307</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dell\Documents\Visual Studio 2012\Projects\track you\packages\Microsoft.Net.Http.2.1.3-beta\lib\win8\System.Net.Http.Primitives.xml">
+      <PackagePath>System.Net.Http.Primitives.xml</PackagePath>
+      <Modified>2013-05-04T15:55:40.311</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dell\Documents\Visual Studio 2012\Projects\track you\kter_myelement\Assets\background\1.jpg">
+      <PackagePath>Assets\background\1.jpg</PackagePath>
+      <Modified>2013-05-21T14:08:15.917</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dell\Documents\Visual Studio 2012\Projects\track you\kter_myelement\Assets\background\1.png">
+      <PackagePath>Assets\background\1.png</PackagePath>
+      <Modified>2013-05-22T03:54:12.055</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dell\Documents\Visual Studio 2012\Projects\track you\kter_myelement\Assets\background\未标题-1.png">
+      <PackagePath>Assets\background\未标题-1.png</PackagePath>
+      <Modified>2013-05-22T04:02:10.002</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dell\Documents\Visual Studio 2012\Projects\track you\kter_myelement\Assets\background\未标题-3.png">
+      <PackagePath>Assets\background\未标题-3.png</PackagePath>
+      <Modified>2013-05-22T04:06:26.442</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dell\Documents\Visual Studio 2012\Projects\track you\kter_myelement\Assets\icon\marker_sprite.png">
+      <PackagePath>Assets\icon\marker_sprite.png</PackagePath>
+      <Modified>2013-05-21T06:22:53.935</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dell\Documents\Visual Studio 2012\Projects\track you\kter_myelement\Assets\icon\marker_sprite_blue.png">
+      <PackagePath>Assets\icon\marker_sprite_blue.png</PackagePath>
+      <Modified>2013-05-21T06:25:11.841</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dell\Documents\Visual Studio 2012\Projects\track you\kter_myelement\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <Modified>2013-05-04T13:45:13.626</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dell\Documents\Visual Studio 2012\Projects\track you\kter_myelement\Assets\logo\logo_1116_540.png">
+      <PackagePath>Assets\logo\logo_1116_540.png</PackagePath>
+      <Modified>2013-05-22T06:11:24.324</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dell\Documents\Visual Studio 2012\Projects\track you\kter_myelement\Assets\logo\logo_1116_540.scale-100.png">
+      <PackagePath>Assets\logo\logo_1116_540.scale-100.png</PackagePath>
+      <Modified>2013-05-22T06:12:05.037</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dell\Documents\Visual Studio 2012\Projects\track you\kter_myelement\Assets\logo\logo_1116_540.scale-140.png">
+      <PackagePath>Assets\logo\logo_1116_540.scale-140.png</PackagePath>
+      <Modified>2013-05-22T06:11:45.892</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dell\Documents\Visual Studio 2012\Projects\track you\kter_myelement\Assets\logo\logo_1116_540.scale-180.png">
+      <PackagePath>Assets\logo\logo_1116_540.scale-180.png</PackagePath>
+      <Modified>2013-05-22T06:11:24.324</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dell\Documents\Visual Studio 2012\Projects\track you\kter_myelement\Assets\logo\logo_120.png">
+      <PackagePath>Assets\logo\logo_120.png</PackagePath>
+      <Modified>2013-05-22T06:04:01.630</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dell\Documents\Visual Studio 2012\Projects\track you\kter_myelement\Assets\logo\logo_150.png">
+      <PackagePath>Assets\logo\logo_150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-05-22T06:03:48.379</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dell\Documents\Visual Studio 2012\Projects\track you\kter_myelement\Assets\logo\logo_150.scale-100.png">
+      <PackagePath>Assets\logo\logo_150.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-05-22T06:03:48.379</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dell\Documents\Visual Studio 2012\Projects\track you\kter_myelement\Assets\logo\logo_150.scale-140.png">
+      <PackagePath>Assets\logo\logo_150.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-05-22T06:03:01.894</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dell\Documents\Visual Studio 2012\Projects\track you\kter_myelement\Assets\logo\logo_150.scale-180.png">
+      <PackagePath>Assets\logo\logo_150.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-05-22T06:02:45.869</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dell\Documents\Visual Studio 2012\Projects\track you\kter_myelement\Assets\logo\logo_150.scale-80.png">
+      <PackagePath>Assets\logo\logo_150.scale-80.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-05-22T06:04:01.630</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dell\Documents\Visual Studio 2012\Projects\track you\kter_myelement\Assets\logo\logo_16.png">
+      <PackagePath>Assets\logo\logo_16.png</PackagePath>
+      <Modified>2013-05-22T06:09:09.870</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dell\Documents\Visual Studio 2012\Projects\track you\kter_myelement\Assets\logo\logo_210.png">
+      <PackagePath>Assets\logo\logo_210.png</PackagePath>
+      <Modified>2013-05-22T06:03:01.894</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dell\Documents\Visual Studio 2012\Projects\track you\kter_myelement\Assets\logo\logo_24.png">
+      <PackagePath>Assets\logo\logo_24.png</PackagePath>
+      <Modified>2013-05-22T06:10:45.597</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dell\Documents\Visual Studio 2012\Projects\track you\kter_myelement\Assets\logo\logo_248_120.png">
+      <PackagePath>Assets\logo\logo_248_120.png</PackagePath>
+      <Modified>2013-05-22T06:06:20.890</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dell\Documents\Visual Studio 2012\Projects\track you\kter_myelement\Assets\logo\logo_256.png">
+      <PackagePath>Assets\logo\logo_256.png</PackagePath>
+      <Modified>2013-05-22T06:06:46.836</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dell\Documents\Visual Studio 2012\Projects\track you\kter_myelement\Assets\logo\logo_270.png">
+      <PackagePath>Assets\logo\logo_270.png</PackagePath>
+      <Modified>2013-05-22T06:02:45.869</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dell\Documents\Visual Studio 2012\Projects\track you\kter_myelement\Assets\logo\logo_30.png">
+      <PackagePath>Assets\logo\logo_30.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-05-22T06:08:33.277</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dell\Documents\Visual Studio 2012\Projects\track you\kter_myelement\Assets\logo\logo_30.scale-100.png">
+      <PackagePath>Assets\logo\logo_30.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-05-22T06:08:33.277</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dell\Documents\Visual Studio 2012\Projects\track you\kter_myelement\Assets\logo\logo_30.scale-140.png">
+      <PackagePath>Assets\logo\logo_30.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-05-22T06:07:44.371</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dell\Documents\Visual Studio 2012\Projects\track you\kter_myelement\Assets\logo\logo_30.scale-180.png">
+      <PackagePath>Assets\logo\logo_30.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-05-22T06:07:07.975</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dell\Documents\Visual Studio 2012\Projects\track you\kter_myelement\Assets\logo\logo_30.scale-80.png">
+      <PackagePath>Assets\logo\logo_30.scale-80.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-05-22T06:10:45.597</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dell\Documents\Visual Studio 2012\Projects\track you\kter_myelement\Assets\logo\logo_30.targetsize-16.png">
+      <PackagePath>Assets\logo\logo_30.targetsize-16.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-05-22T06:09:09.870</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dell\Documents\Visual Studio 2012\Projects\track you\kter_myelement\Assets\logo\logo_30.targetsize-256.png">
+      <PackagePath>Assets\logo\logo_30.targetsize-256.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-05-22T06:06:46.836</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dell\Documents\Visual Studio 2012\Projects\track you\kter_myelement\Assets\logo\logo_30.targetsize-32.png">
+      <PackagePath>Assets\logo\logo_30.targetsize-32.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-05-22T06:08:18.957</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dell\Documents\Visual Studio 2012\Projects\track you\kter_myelement\Assets\logo\logo_30.targetsize-48.png">
+      <PackagePath>Assets\logo\logo_30.targetsize-48.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-05-22T06:07:29.239</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dell\Documents\Visual Studio 2012\Projects\track you\kter_myelement\Assets\logo\logo_310_150.png">
+      <PackagePath>Assets\logo\logo_310_150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-05-22T06:05:44.437</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dell\Documents\Visual Studio 2012\Projects\track you\kter_myelement\Assets\logo\logo_310_150.scale-100.png">
+      <PackagePath>Assets\logo\logo_310_150.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-05-22T06:05:44.437</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dell\Documents\Visual Studio 2012\Projects\track you\kter_myelement\Assets\logo\logo_310_150.scale-140.png">
+      <PackagePath>Assets\logo\logo_310_150.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-05-22T06:05:22.054</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dell\Documents\Visual Studio 2012\Projects\track you\kter_myelement\Assets\logo\logo_310_150.scale-180.png">
+      <PackagePath>Assets\logo\logo_310_150.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-05-22T06:04:55.372</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dell\Documents\Visual Studio 2012\Projects\track you\kter_myelement\Assets\logo\logo_310_150.scale-80.png">
+      <PackagePath>Assets\logo\logo_310_150.scale-80.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-05-22T06:06:20.890</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dell\Documents\Visual Studio 2012\Projects\track you\kter_myelement\Assets\logo\logo_32.png">
+      <PackagePath>Assets\logo\logo_32.png</PackagePath>
+      <Modified>2013-05-22T06:08:18.957</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dell\Documents\Visual Studio 2012\Projects\track you\kter_myelement\Assets\logo\logo_33.png">
+      <PackagePath>Assets\logo\logo_33.png</PackagePath>
+      <Modified>2013-05-22T06:10:36.452</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dell\Documents\Visual Studio 2012\Projects\track you\kter_myelement\Assets\logo\logo_42.png">
+      <PackagePath>Assets\logo\logo_42.png</PackagePath>
+      <Modified>2013-05-22T06:07:44.371</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dell\Documents\Visual Studio 2012\Projects\track you\kter_myelement\Assets\logo\logo_43.png">
+      <PackagePath>Assets\logo\logo_43.png</PackagePath>
+      <Modified>2013-05-22T06:10:27.376</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dell\Documents\Visual Studio 2012\Projects\track you\kter_myelement\Assets\logo\logo_43.scale-100.png">
+      <PackagePath>Assets\logo\logo_43.scale-100.png</PackagePath>
+      <Modified>2013-05-22T06:10:45.597</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dell\Documents\Visual Studio 2012\Projects\track you\kter_myelement\Assets\logo\logo_43.scale-140.png">
+      <PackagePath>Assets\logo\logo_43.scale-140.png</PackagePath>
+      <Modified>2013-05-22T06:10:36.452</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dell\Documents\Visual Studio 2012\Projects\track you\kter_myelement\Assets\logo\logo_43.scale-180.png">
+      <PackagePath>Assets\logo\logo_43.scale-180.png</PackagePath>
+      <Modified>2013-05-22T06:10:27.376</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dell\Documents\Visual Studio 2012\Projects\track you\kter_myelement\Assets\logo\logo_434_210.png">
+      <PackagePath>Assets\logo\logo_434_210.png</PackagePath>
+      <Modified>2013-05-22T06:05:22.054</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dell\Documents\Visual Studio 2012\Projects\track you\kter_myelement\Assets\logo\logo_48.png">
+      <PackagePath>Assets\logo\logo_48.png</PackagePath>
+      <Modified>2013-05-22T06:07:29.239</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dell\Documents\Visual Studio 2012\Projects\track you\kter_myelement\Assets\logo\logo_50.png">
+      <PackagePath>Assets\logo\logo_50.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-05-22T06:10:06.515</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dell\Documents\Visual Studio 2012\Projects\track you\kter_myelement\Assets\logo\logo_50.scale-100.png">
+      <PackagePath>Assets\logo\logo_50.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-05-22T06:10:06.515</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dell\Documents\Visual Studio 2012\Projects\track you\kter_myelement\Assets\logo\logo_50.scale-140.png">
+      <PackagePath>Assets\logo\logo_50.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-05-22T06:09:56.146</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dell\Documents\Visual Studio 2012\Projects\track you\kter_myelement\Assets\logo\logo_50.scale-180.png">
+      <PackagePath>Assets\logo\logo_50.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-05-22T06:09:43.984</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dell\Documents\Visual Studio 2012\Projects\track you\kter_myelement\Assets\logo\logo_54.png">
+      <PackagePath>Assets\logo\logo_54.png</PackagePath>
+      <Modified>2013-05-22T06:07:07.975</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dell\Documents\Visual Studio 2012\Projects\track you\kter_myelement\Assets\logo\logo_558_270.png">
+      <PackagePath>Assets\logo\logo_558_270.png</PackagePath>
+      <Modified>2013-05-22T06:04:55.372</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dell\Documents\Visual Studio 2012\Projects\track you\kter_myelement\Assets\logo\logo_620_300.png">
+      <PackagePath>Assets\logo\logo_620_300.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-05-22T06:12:05.037</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dell\Documents\Visual Studio 2012\Projects\track you\kter_myelement\Assets\logo\logo_620_300.scale-100.png">
+      <PackagePath>Assets\logo\logo_620_300.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-05-22T06:12:05.037</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dell\Documents\Visual Studio 2012\Projects\track you\kter_myelement\Assets\logo\logo_620_300.scale-140.png">
+      <PackagePath>Assets\logo\logo_620_300.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-05-22T06:11:45.892</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dell\Documents\Visual Studio 2012\Projects\track you\kter_myelement\Assets\logo\logo_70.png">
+      <PackagePath>Assets\logo\logo_70.png</PackagePath>
+      <Modified>2013-05-22T06:09:56.146</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dell\Documents\Visual Studio 2012\Projects\track you\kter_myelement\Assets\logo\logo_868_420.png">
+      <PackagePath>Assets\logo\logo_868_420.png</PackagePath>
+      <Modified>2013-05-22T06:11:45.892</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dell\Documents\Visual Studio 2012\Projects\track you\kter_myelement\Assets\logo\logo_90.png">
+      <PackagePath>Assets\logo\logo_90.png</PackagePath>
+      <Modified>2013-05-22T06:09:43.984</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dell\Documents\Visual Studio 2012\Projects\track you\kter_myelement\Assets\res\厌恶.png">
+      <PackagePath>Assets\res\厌恶.png</PackagePath>
+      <Modified>2013-06-10T03:18:01.666</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dell\Documents\Visual Studio 2012\Projects\track you\kter_myelement\Assets\res\本尊.png">
+      <PackagePath>Assets\res\本尊.png</PackagePath>
+      <Modified>2013-06-11T08:50:01.966</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dell\Documents\Visual Studio 2012\Projects\track you\kter_myelement\Assets\res\熟悉.png">
+      <PackagePath>Assets\res\熟悉.png</PackagePath>
+      <Modified>2013-06-10T03:16:33.016</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dell\Documents\Visual Studio 2012\Projects\track you\kter_myelement\Assets\res\认识.png">
+      <PackagePath>Assets\res\认识.png</PackagePath>
+      <Modified>2013-06-10T03:14:43.976</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dell\Documents\Visual Studio 2012\Projects\track you\kter_myelement\Assets\res\陌生.png">
+      <PackagePath>Assets\res\陌生.png</PackagePath>
+      <Modified>2013-06-10T02:15:49.656</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dell\Documents\Visual Studio 2012\Projects\track you\kter_myelement\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <Modified>2013-05-04T13:45:13.634</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dell\Documents\Visual Studio 2012\Projects\track you\kter_myelement\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <Modified>2013-05-04T13:45:13.642</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dell\Documents\Visual Studio 2012\Projects\track you\kter_myelement\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <Modified>2013-05-04T13:45:13.651</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dell\Documents\Visual Studio 2012\Projects\track you\kter_myelement\Fonts\蔡云汉清叶书法字体.ttf">
+      <PackagePath>Fonts\蔡云汉清叶书法字体.ttf</PackagePath>
+      <Modified>2013-06-05T05:43:42.994</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dell\Documents\Visual Studio 2012\Projects\track you\kter_myelement\Fonts\LiveSymbol.ttf">
+      <PackagePath>Fonts\LiveSymbol.ttf</PackagePath>
+      <Modified>2013-05-20T15:35:22.738</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dell\Documents\Visual Studio 2012\Projects\track you\kter_myelement\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2013-05-04T13:45:13.536</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dell\Documents\Visual Studio 2012\Projects\track you\kter_myelement\bin\Debug\Common\QuickStartTask.xaml">
+      <PackagePath>Common\QuickStartTask.xaml</PackagePath>
+      <Modified>2013-05-04T13:45:13.661</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dell\Documents\Visual Studio 2012\Projects\track you\kter_myelement\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2013-05-04T13:45:13.679</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dell\Documents\Visual Studio 2012\Projects\track you\kter_myelement\bin\Debug\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+      <Modified>2013-06-12T01:47:24.520</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dell\Documents\Visual Studio 2012\Projects\track you\kter_myelement\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2013-06-12T01:53:12.380</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

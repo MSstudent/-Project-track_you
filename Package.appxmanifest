@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Package xmlns="http://schemas.microsoft.com/appx/2010/manifest">
+  <Identity Name="11246kter.trackyou" Publisher="CN=9C413170-8503-47BA-820F-B2D164F1A23E" Version="1.0.0.10" />
+  <Properties>
+    <DisplayName>track you</DisplayName>
+    <PublisherDisplayName>kter</PublisherDisplayName>
+    <Logo>Assets\Logo\logo_50.png</Logo>
+  </Properties>
+  <Prerequisites>
+    <OSMinVersion>6.2.0</OSMinVersion>
+    <OSMaxVersionTested>6.2.0</OSMaxVersionTested>
+  </Prerequisites>
+  <Resources>
+    <Resource Language="x-generate" />
+  </Resources>
+  <Applications>
+    <Application Id="App" Executable="$targetnametoken$.exe" EntryPoint="kter_myelement.App">
+      <VisualElements DisplayName="track you" Logo="Assets\Logo\logo_150.png" SmallLogo="Assets\Logo\logo_30.png" Description="kter_myelement" ForegroundText="light" BackgroundColor="#0e13e3" ToastCapable="true">
+        <DefaultTile ShowName="allLogos" WideLogo="Assets\Logo\logo_310_150.png" />
+        <SplashScreen Image="Assets\Logo\logo_620_300.png" />
+        <InitialRotationPreference>
+          <Rotation Preference="landscape" />
+        </InitialRotationPreference>
+      </VisualElements>
+    </Application>
+  </Applications>
+  <Capabilities>
+    <Capability Name="internetClient" />
+    <DeviceCapability Name="location" />
+  </Capabilities>
+</Package>
