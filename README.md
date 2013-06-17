@@ -4,8 +4,9 @@ track_you
 >本项目在西安电子科技大学 OpenM.S.活动中获得杰出微软学生开发者奖   
 
 ***
+![Image text](http://github.com/MSstudent/-Project-track_you/raw/master/sample.png)
 
- ![image](./show.jpg "mainpage")  
+
      
 >出于安全考虑，已将代码中相关的key和url去掉，敬请谅解
 
