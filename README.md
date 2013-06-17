@@ -5,7 +5,7 @@ track_you
 
 ***
 
- ![image](https://github.com/MSstudent/-Project-track_you/blob/master/sample.png)
+ ![image](./show.jpg "mainpage")  
      
 >出于安全考虑，已将代码中相关的key和url去掉，敬请谅解
 
